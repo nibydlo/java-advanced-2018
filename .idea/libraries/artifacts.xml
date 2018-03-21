@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="artifacts">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/artifacts/WalkTest.jar!/" />
+      <root url="jar://$PROJECT_DIR$/artifacts/ArraySetTest.jar!/" />
+      <root url="jar://$PROJECT_DIR$/artifacts/StudentTest.jar!/" />
+      <root url="jar://$PROJECT_DIR$/artifacts/ImplementorTest.jar!/" />
+      <root url="jar://$PROJECT_DIR$/artifacts/JarImplementorTest.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
